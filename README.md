@@ -4,7 +4,7 @@
 
 - 📍 **Location**: United Kingdom
 - 🎮 **Experience**: Development in Web Development & FiveM since 2020.
-- 🤝 **Ag**: 17 years old
+- 🤝 **Age**: 17 years old
 
 ## 🛠️ What I'm experienced with
 - **Languages**: LUA, HTML, CSS and Python.
