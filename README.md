@@ -3,12 +3,12 @@
 ## 🌍 About Me
 
 - 📍 **Location**: United Kingdom
-- 🎮 **Experience**: Development in FiveM since 2020.
+- 🎮 **Experience**: Development in Web Development & FiveM since 2020.
 - 🤝 **Ag**: 17 years old
 
 ## 🛠️ What I'm experienced with
-- **Languages**: LUA
-- **Specialties**: FiveM Scripting
+- **Languages**: LUA, HTML, CSS and Python.
+- **Specialties**: Web Development & FiveM Scripting
 
 ## 📪 How to reach me
 <!--- **Discord**: [https://discord.gg/zeray](join my Discord Server)!--->
