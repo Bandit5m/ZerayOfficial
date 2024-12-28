@@ -11,4 +11,5 @@
 - **Specialties**: FiveM Scripting
 
 ## 📪 How to reach me
-- **Discord**: [https://discord.gg/zeray](join my Discord Server)
+<!--- **Discord**: [https://discord.gg/zeray](join my Discord Server)!--->
+- **Discord**: [join my Discord Server](https://discord.gg/zeray)
