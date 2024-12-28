@@ -1,4 +1,4 @@
-## Welcome to the ZerayOfficial Github
+## Welcome to the [ZerayOfficial](https://discord.gg/zeray) Github
 
 ## 🌍 About Me
 
