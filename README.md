@@ -1,4 +1,4 @@
-## Welcome to the [ZerayOfficial](https://discord.gg/zeray) Github
+## Welcome to the [Bandit](https://discord.gg/bandit5m) Github
 
 ## 🌍 About Me
 
@@ -12,4 +12,4 @@
 
 ## 📪 How to reach me
 <!--- **Discord**: [https://discord.gg/zeray](join my Discord Server)!--->
-- **Discord**: [join my Discord Server](https://discord.gg/zeray)
+- **Discord**: [join my Discord Server](https://discord.gg/bandit5m)
